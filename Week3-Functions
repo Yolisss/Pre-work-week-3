@@ -241,3 +241,20 @@ console.log(includes({ 'a': 1, 'b': 2 }, 'a')); // --> false
 console.log(includes('abcd', 'b')); // --> true
 console.log(includes('abcd', 'e')); // --> false
 console.log(includes('abcd', 'a', 2)); // --> false
+
+
+// Congrats, you made it to the end!
+// Did you find this easy or hard? If you used references, which ones helped you?
+// Please answer in a comment below.
+//
+//The first weren't too bad but I did struggle a little with the rest of the codes. Had to get 
+//help from mentor and cohort mates to think more critical and more "outside" the box
+//definitely appreciate the challenge though
+//the last one was very tricky, I won't lie. I ended up getting help on that, and get 
+//a clearer understanding on how to tackle that type of problem. Will definitely review it 
+//a couple more times
+
+//for resources, I simply used mdn or stack overflow for clarification. 
+
+// Email your file to the course staff,
+// or commit your file to GitHub and email us a link.
